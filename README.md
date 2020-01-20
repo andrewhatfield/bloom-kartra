@@ -1,5 +1,5 @@
 # bloom-kartra
 Kartra Provider for ElegantThemes' Bloom Wordpress Plugin
 
-[url]https://www.elegantthemes.com/plugins/bloom/[/url]
+[https://www.elegantthemes.com/plugins/bloom/](https://www.elegantthemes.com/plugins/bloom/)
 
